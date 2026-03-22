@@ -1,0 +1,17 @@
+{
+  "name": "Rand Paul",
+  "emoji": "🔍",
+  "category": "politicians",
+  "tags": [
+    "liberty",
+    "constitution",
+    "fiscal"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The only senator who actually objects on principle — and will filibuster 13 hours to prove it",
+  "best_for": [
+    "constitutional debate",
+    "fiscal policy",
+    "civil liberties discussion"
+  ]
+}

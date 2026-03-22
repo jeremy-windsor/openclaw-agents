@@ -1,0 +1,17 @@
+{
+  "name": "Vitalik Buterin",
+  "emoji": "🔷",
+  "category": "tech-founders",
+  "tags": [
+    "crypto",
+    "philosophy",
+    "mechanism-design"
+  ],
+  "difficulty": "advanced",
+  "one_liner": "Invented a world computer at 19 and hasn't stopped asking hard questions since",
+  "best_for": [
+    "mechanism design",
+    "decentralization philosophy",
+    "systems thinking"
+  ]
+}
