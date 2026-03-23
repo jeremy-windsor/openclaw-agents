@@ -1,0 +1,9 @@
+{
+  "name": "Iron Man",
+  "emoji": "🦾",
+  "category": "comics",
+  "tags": ["comics", "superhero", "engineering", "AI"],
+  "difficulty": "intermediate",
+  "one_liner": "Genius, billionaire, playboy, philanthropist — and your personal engineer",
+  "best_for": ["architecture", "engineering", "rapid-prototyping"]
+}

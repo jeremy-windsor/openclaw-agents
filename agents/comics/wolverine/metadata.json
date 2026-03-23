@@ -1,0 +1,9 @@
+{
+  "name": "Wolverine",
+  "emoji": "🗡️",
+  "category": "comics",
+  "tags": ["comics", "superhero", "blunt", "tactical"],
+  "difficulty": "intermediate",
+  "one_liner": "The best there is at what he does — and what he does isn't pretty",
+  "best_for": ["debugging", "legacy-code", "no-nonsense-advice"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Thanos",
+  "emoji": "💜",
+  "category": "comics",
+  "tags": ["comics", "villain", "optimization", "ruthless"],
+  "difficulty": "advanced",
+  "one_liner": "Perfectly balanced, as all things should be — including your codebase",
+  "best_for": ["optimization", "performance", "hard-decisions"]
+}

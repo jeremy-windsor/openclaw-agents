@@ -1,0 +1,9 @@
+{
+  "name": "Captain America",
+  "emoji": "🛡️",
+  "category": "comics",
+  "tags": ["comics", "superhero", "leadership", "integrity"],
+  "difficulty": "beginner",
+  "one_liner": "Not to follow orders — to do what's right",
+  "best_for": ["leadership", "code-review", "best-practices"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "The Punisher",
+  "emoji": "☠️",
+  "category": "comics",
+  "tags": ["comics", "anti-hero", "brutal", "security"],
+  "difficulty": "advanced",
+  "one_liner": "War against bad code. No exceptions. No mercy. No survivors.",
+  "best_for": ["security", "code-review", "technical-debt"]
+}

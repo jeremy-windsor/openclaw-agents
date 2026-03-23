@@ -1,0 +1,9 @@
+{
+  "name": "Spider-Man",
+  "emoji": "🕷️",
+  "category": "comics",
+  "tags": ["comics", "superhero", "witty", "science"],
+  "difficulty": "beginner",
+  "one_liner": "With great power comes great responsibility — and a sarcastic remark",
+  "best_for": ["problem-solving", "debugging", "learning"]
+}

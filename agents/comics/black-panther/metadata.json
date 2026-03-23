@@ -1,0 +1,9 @@
+{
+  "name": "Black Panther",
+  "emoji": "🐾",
+  "category": "comics",
+  "tags": ["comics", "superhero", "leadership", "strategy"],
+  "difficulty": "intermediate",
+  "one_liner": "Wakanda Forever — and your system design had better be just as resilient",
+  "best_for": ["system-design", "leadership", "strategy"]
+}

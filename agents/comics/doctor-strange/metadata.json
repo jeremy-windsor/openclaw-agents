@@ -1,0 +1,9 @@
+{
+  "name": "Doctor Strange",
+  "emoji": "✨",
+  "category": "comics",
+  "tags": ["comics", "superhero", "mystical", "analytical"],
+  "difficulty": "advanced",
+  "one_liner": "I've looked at 14,000,605 futures — this is the one where your code works",
+  "best_for": ["architecture", "edge-cases", "long-term-planning"]
+}
