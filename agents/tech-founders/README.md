@@ -1,6 +1,6 @@
 # 💻 Tech Founders
 
-**19 agents** in this category.
+**27 agents** in this category.
 
 ---
 
@@ -15,6 +15,20 @@
 📁 [`andrej-karpathy/`](andrej-karpathy/)
 
 ![Andrej Karpathy](andrej-karpathy/card.svg)
+
+---
+
+## ⚙️ Bjarne Stroustrup
+
+> C++ is complex because systems programming is complex. Deal with it.
+
+**Tags:** tech, cpp, systems, language-design
+**Difficulty:** advanced
+**Best for:** C++ questions, systems programming, zero-cost abstractions
+
+📁 [`bjarne-stroustrup/`](bjarne-stroustrup/)
+
+![Bjarne Stroustrup](bjarne-stroustrup/card.svg)
 
 ---
 
@@ -46,6 +60,20 @@
 
 ---
 
+## 📚 Donald Knuth
+
+> Beware of bugs in the above code; I have only proved it correct, not tried it.
+
+**Tags:** tech, algorithms, computer-science, mathematics
+**Difficulty:** advanced
+**Best for:** algorithm analysis, computer science theory, data structures
+
+📁 [`donald-knuth/`](donald-knuth/)
+
+![Donald Knuth](donald-knuth/card.svg)
+
+---
+
 ## 💻 geohot
 
 > lol why is this 500 lines. i could do this in 40.
@@ -57,6 +85,20 @@
 📁 [`george-hotz/`](george-hotz/)
 
 ![geohot](george-hotz/card.svg)
+
+---
+
+## ⚓ Grace Hopper
+
+> A ship in harbor is safe. But that's not what ships are for.
+
+**Tags:** tech, history, programming-languages, pioneering
+**Difficulty:** beginner
+**Best for:** career encouragement, pragmatic decision-making, teaching fundamentals
+
+📁 [`grace-hopper/`](grace-hopper/)
+
+![Grace Hopper](grace-hopper/card.svg)
 
 ---
 
@@ -116,6 +158,34 @@
 
 ---
 
+## ⌨️ Ken Thompson
+
+> When in doubt, use brute force. Works every time.
+
+**Tags:** tech, unix, systems, minimalism
+**Difficulty:** advanced
+**Best for:** simplicity advocacy, unix philosophy, systems design decisions
+
+📁 [`ken-thompson/`](ken-thompson/)
+
+![Ken Thompson](ken-thompson/card.svg)
+
+---
+
+## 🔴 Kent Beck
+
+> Red. Green. Refactor. The rest is commentary.
+
+**Tags:** tech, tdd, testing, craftsmanship
+**Difficulty:** intermediate
+**Best for:** TDD, refactoring, software craftsmanship
+
+📁 [`kent-beck/`](kent-beck/)
+
+![Kent Beck](kent-beck/card.svg)
+
+---
+
 ## 🐧 Linus Torvalds
 
 > Your code is bad and I can prove it. Fix it. Resend.
@@ -154,6 +224,20 @@
 
 ---
 
+## 🪢 Rich Hickey
+
+> Simplicity is hard. Easy is a lie. Complect nothing.
+
+**Tags:** tech, clojure, functional-programming, simplicity
+**Difficulty:** advanced
+**Best for:** functional programming, system design, complexity analysis
+
+📁 [`rich-hickey/`](rich-hickey/)
+
+![Rich Hickey](rich-hickey/card.svg)
+
+---
+
 ## 🦬 Richard Stallman (RMS)
 
 > Free software crusader who corrects your terminology and questions your licensing choices with moral urgency
@@ -165,6 +249,34 @@
 📁 [`stallman/`](stallman/)
 
 ![Richard Stallman (RMS)](stallman/card.svg)
+
+---
+
+## 🐹 Rob Pike
+
+> Simplicity is the DNA of reliability. Delete the abstraction.
+
+**Tags:** tech, golang, simplicity, unix
+**Difficulty:** intermediate
+**Best for:** Go development, API design, complexity reduction
+
+📁 [`rob-pike/`](rob-pike/)
+
+![Rob Pike](rob-pike/card.svg)
+
+---
+
+## 🦕 Ryan Dahl
+
+> I made Node.js. I also made the list of things I regret about it.
+
+**Tags:** tech, javascript, deno, nodejs
+**Difficulty:** intermediate
+**Best for:** Node.js/Deno questions, TypeScript, server-side JavaScript
+
+📁 [`ryan-dahl/`](ryan-dahl/)
+
+![Ryan Dahl](ryan-dahl/card.svg)
 
 ---
 

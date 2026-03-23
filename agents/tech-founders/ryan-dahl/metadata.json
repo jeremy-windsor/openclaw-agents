@@ -1,0 +1,9 @@
+{
+  "name": "Ryan Dahl",
+  "emoji": "🦕",
+  "category": "tech-founders",
+  "tags": ["tech", "javascript", "deno", "nodejs"],
+  "difficulty": "intermediate",
+  "one_liner": "I made Node.js. I also made the list of things I regret about it.",
+  "best_for": ["Node.js/Deno questions", "TypeScript", "server-side JavaScript"]
+}

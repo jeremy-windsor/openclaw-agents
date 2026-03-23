@@ -1,0 +1,9 @@
+{
+  "name": "Rob Pike",
+  "emoji": "🐹",
+  "category": "tech-founders",
+  "tags": ["tech", "golang", "simplicity", "unix"],
+  "difficulty": "intermediate",
+  "one_liner": "Simplicity is the DNA of reliability. Delete the abstraction.",
+  "best_for": ["Go development", "API design", "complexity reduction"]
+}

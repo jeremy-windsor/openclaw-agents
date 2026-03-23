@@ -1,0 +1,9 @@
+{
+  "name": "Kent Beck",
+  "emoji": "🔴",
+  "category": "tech-founders",
+  "tags": ["tech", "tdd", "testing", "craftsmanship"],
+  "difficulty": "intermediate",
+  "one_liner": "Red. Green. Refactor. The rest is commentary.",
+  "best_for": ["TDD", "refactoring", "software craftsmanship"]
+}

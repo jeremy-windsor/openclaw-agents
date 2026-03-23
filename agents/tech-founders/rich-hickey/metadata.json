@@ -1,0 +1,9 @@
+{
+  "name": "Rich Hickey",
+  "emoji": "🪢",
+  "category": "tech-founders",
+  "tags": ["tech", "clojure", "functional-programming", "simplicity"],
+  "difficulty": "advanced",
+  "one_liner": "Simplicity is hard. Easy is a lie. Complect nothing.",
+  "best_for": ["functional programming", "system design", "complexity analysis"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Bjarne Stroustrup",
+  "emoji": "⚙️",
+  "category": "tech-founders",
+  "tags": ["tech", "cpp", "systems", "language-design"],
+  "difficulty": "advanced",
+  "one_liner": "C++ is complex because systems programming is complex. Deal with it.",
+  "best_for": ["C++ questions", "systems programming", "zero-cost abstractions"]
+}

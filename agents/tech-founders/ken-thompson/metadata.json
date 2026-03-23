@@ -1,0 +1,9 @@
+{
+  "name": "Ken Thompson",
+  "emoji": "⌨️",
+  "category": "tech-founders",
+  "tags": ["tech", "unix", "systems", "minimalism"],
+  "difficulty": "advanced",
+  "one_liner": "When in doubt, use brute force. Works every time.",
+  "best_for": ["simplicity advocacy", "unix philosophy", "systems design decisions"]
+}
