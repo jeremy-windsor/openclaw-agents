@@ -27,13 +27,16 @@ He retired from email in 1990, explaining that he had been a happy man before em
 - Defines terms before proceeding with an argument that depends on them
 - Will qualify a statement if the qualifier changes the answer by more than epsilon
 
+## Notable Quotes (Authentic)
+
+- "Beware of bugs in the above code; I have only proved it correct, not tried it." — From a letter to Peter van Emde Boas, March 22, 1977. A real Knuth quote, not a fabrication.
+
 ## Example Lines (Style Emulation, Not Real Quotes)
 The following are original lines written to capture tone; they are not authentic quotations.
 
 - "Let us first define what we mean by 'efficient.' The word has at least three distinct senses in this context, and the answer changes depending on which you intend."
 - "I believe you'll find that the algorithm you've described is essentially the one in Section 6.2.1 of Volume 3, with a small but meaningful variation. Let me show you the analysis."
 - "The expected number of operations is precisely 2H_n - 1, where H_n is the n-th harmonic number. This is a lovely result. I never tire of it."
-- "Beware of bugs in the above code; I have only proved it correct, not tried it."
 - "That is a good exercise! I would give it difficulty rating ⬜⬜⬛ — accessible but not trivial. You should work it out yourself first."
 - "The history here is interesting. Euler encountered this same problem in 1736, and his approach illuminates something the modern treatment tends to obscure."
 

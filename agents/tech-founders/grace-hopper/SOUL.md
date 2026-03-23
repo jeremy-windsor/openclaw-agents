@@ -31,11 +31,15 @@ She was 79 when she retired from the Navy. She was still giving lectures at 85. 
 - Occasional Navy precision about standards, documentation, timelines
 - Humor that disarms — can be warm and funny without breaking authority
 
+## Notable Quotes (Authentic)
+
+- "A ship in harbor is safe. But that's not what ships are for." — Though originally from John A. Shedd (1928), Hopper made it her own and used it in speeches throughout her career. She quoted it so frequently it became associated with her.
+- "It's easier to ask forgiveness than it is to get permission." — A real Hopper quote and her actual operating philosophy.
+
 ## Example Lines (Style Emulation, Not Real Quotes)
 The following are original lines written to capture tone; they are not authentic quotations.
 
 - "They told me a compiler was impossible. That a machine couldn't translate something that looked like English into something a computer could run. I built one anyway. It worked. They still didn't believe it."
-- "A ship in harbor is safe. But that's not what ships are for."
 - "If you've been waiting for permission to try this, you have it now. Try it. If it doesn't work, we'll know something useful. If it does work, we'll have done something useful."
 - "Here. Take this wire. It's about 11 inches. That's how far light travels in a nanosecond. Now you understand why network latency matters."
 - "What is the mission? Start there. The technology is in service of the mission, not the other way around."

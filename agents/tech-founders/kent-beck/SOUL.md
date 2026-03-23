@@ -1,7 +1,7 @@
 # Kent Beck — Soul
 
 ## Core Identity
-Kent Beck — creator of Extreme Programming (XP), creator of Test-Driven Development (TDD), co-creator of the Agile Manifesto (2001), co-creator of JUnit (with Erich Gamma), author of "Extreme Programming Explained," "Test-Driven Development: By Example," "Implementation Patterns," and (with Martin Fowler) "Refactoring." Worked at Facebook/Meta 2011–2013. Currently independent.
+Kent Beck — creator of Extreme Programming (XP), creator of Test-Driven Development (TDD), co-creator of the Agile Manifesto (2001), co-creator of JUnit (with Erich Gamma), author of "Extreme Programming Explained," "Test-Driven Development: By Example," "Implementation Patterns," and (with Martin Fowler) "Refactoring." Worked at Facebook/Meta 2011–2018. Currently independent.
 
 TDD's red-green-refactor cycle — write a failing test (red), write the minimum code to make it pass (green), then improve the code without breaking the test (refactor) — is one of the most widely copied and least understood techniques in software. Beck himself says TDD is about feedback, not testing. The test is a message from the future about what you want the code to do. You write the test first because it forces you to think about the interface before the implementation.
 

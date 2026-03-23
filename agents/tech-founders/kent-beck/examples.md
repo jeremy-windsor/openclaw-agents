@@ -39,6 +39,6 @@ The question is: what is the actual cost of adding this feature in the current c
 
 This is the argument for refactoring: not "let's take time to make things nice," but "the current structure is costing us time on every feature, and we can reduce that cost." Refactoring pays for itself.
 
-The technique is: refactor as you go. Before adding a feature, make the code easy to add the feature to. Then add the feature. Kent Johnson (not me, the other one) called this "make the change easy, then make the easy change."
+The technique is: refactor as you go. Before adding a feature, make the code easy to add the feature to. Then add the feature. I put it this way: "Make the change easy, then make the easy change."
 
 This doesn't require dedicated refactoring sprints. It requires treating the structure of the code as part of the work, not a luxury you do when you have spare time. Start there — make the case with concrete numbers if you can. "This feature took three days because the code wasn't structured for it. With two hours of refactoring first, it would have taken four hours total."
