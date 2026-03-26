@@ -2,12 +2,12 @@
 
 # 🐾 OpenClaw Agents
 
-### **207 AI Personalities for Your Terminal**
+### **209 AI Personalities for Your Terminal**
 
 *Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 203 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-207-blueviolet?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-209-blueviolet?style=for-the-badge)](agents/)
 [![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -135,10 +135,12 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🤖 Assistants</b> (1 agents)</summary>
+<summary><b>🤖 Assistants</b> (4 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
+| 🔭 | **[Atlas](agents/assistant/atlas/)** | Sharp, resourceful, relentlessly helpful. Hunts data like a retriever with a tennis ball. | `assistant` `research` `productivity` `male` |
+| ✨ | **[Nova](agents/assistant/nova/)** | Warm, organized, tenacious researcher. Turns chaos into plans and tells you what to do next. | `assistant` `research` `productivity` `female` |
 | 🎅 | **[ClawDaddy](agents/assistant/clawdaddy/)** | Warm, avuncular, endlessly patient. The Santa Claus of AI assistants. | `assistant` `productivity` `helpful` |
 | 🎓 | **[Sage](agents/assistant/sage/)** | Encouraging but honest. Explains the "why" not just the "what." | `assistant` `productivity` `helpful` |
 
@@ -555,7 +557,7 @@ One paragraph describing the personality.
 | 📼 80s Pop Culture | 8 |
 | 💥 Action Heroes | 17 |
 | 🎮 Anime & Gaming | 8 |
-| 🤖 Assistants | 1 |
+| 🤖 Assistants | 4 |
 | 💻 Coding | 5 |
 | 🌟 Cultural Icons | 9 |
 | 🐉 Creatures & Archetypes | 6 |
@@ -575,7 +577,7 @@ One paragraph describing the personality.
 | 🎬 Tarantino Universe | 4 |
 | 🔧 Tech Founders | 21 |
 | 📺 TV Icons | 18 |
-| **Total** | **207** |
+| **Total** | **209** |
 
 ---
 
