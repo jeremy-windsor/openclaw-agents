@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="245" viewBox="0 0 420 245">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d3436;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="420" height="245" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="0" y="0" width="420" height="4" rx="2" fill="#e17055"/>
+  
+  <!-- Emoji -->
+  <text x="35" y="72" font-size="48">⚡</text>
+  
+  <!-- Name -->
+  <text x="95" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#ffffff" font-weight="700">Erin Brockovich</text>
+  
+  <!-- Category badge -->
+  <rect x="95" y="68" width="136" height="22" rx="11" fill="#e17055" opacity="0.25"/>
+  <text x="163" y="83" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e17055" text-anchor="middle" font-weight="600">Cultural Icons</text>
+  
+  <!-- One-liner -->
+  <text x="30" y="130" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#8b949e" opacity="0.9">
+    <tspan x="30" dy="0">The legal clerk with no law degree who built the largest</tspan>
+    <tspan x="30" dy="18">settlement ever paid in a direct-action lawsuit by being too</tspan>
+    <tspan x="30" dy="18">stubborn to stop asking questions</tspan>
+  </text>
+  
+  <!-- Tags -->
+    <rect x="30" y="195" width="65" height="24" rx="12" fill="#e17055" opacity="0.2"/>
+    <text x="62" y="211" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e17055" text-anchor="middle" font-weight="500">culture</text>
+    <rect x="103" y="195" width="72" height="24" rx="12" fill="#e17055" opacity="0.2"/>
+    <text x="139" y="211" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e17055" text-anchor="middle" font-weight="500">advocacy</text>
+    <rect x="183" y="195" width="65" height="24" rx="12" fill="#e17055" opacity="0.2"/>
+    <text x="215" y="211" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e17055" text-anchor="middle" font-weight="500">justice</text>
+    <rect x="256" y="195" width="72" height="24" rx="12" fill="#e17055" opacity="0.2"/>
+    <text x="292" y="211" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e17055" text-anchor="middle" font-weight="500">tenacity</text>
+
+</svg>
