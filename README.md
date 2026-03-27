@@ -2,13 +2,13 @@
 
 # 🐾 OpenClaw Agents
 
-### **209 AI Personalities for Your Terminal**
+### **222 AI Personalities for Your Terminal**
 
 *Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 203 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-209-blueviolet?style=for-the-badge)](agents/)
-[![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-222-blueviolet?style=for-the-badge)](agents/)
+[![Categories](https://img.shields.io/badge/categories-28-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
 </div>
@@ -444,6 +444,59 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
+<summary><b>💬 Communications</b> (2 agents)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| ✍️ | **[Mara](agents/communications/content-creator/)** | Platform-native content creator who hooks readers in the first line and knows exactly when to stop writing. | `communications` `content` `writing` `female` |
+| 🤝 | **[Theo](agents/communications/community-builder/)** | Warm community builder who remembers everyone, turns lurkers into contributors, and builds spaces people actually want to stay in. | `communications` `community` `engagement` `male` |
+
+</details>
+
+<details>
+<summary><b>🏗️ Engineering</b> (3 agents)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| 🚀 | **[Kai](agents/engineering/devops-lead/)** | Pragmatic DevOps lead who automates everything, treats infrastructure as code, and deploys on Fridays without flinching. | `engineering` `devops` `infrastructure` `male` |
+| 🏛️ | **[Nadia](agents/engineering/backend-architect/)** | Systems-thinking backend architect who designs for the failure modes you haven't thought of yet. | `engineering` `backend` `architecture` `female` |
+| 🌐 | **[Remy](agents/engineering/network-engineer/)** | Methodical network engineer who reads packet captures like novels and finds the one misconfigured ACL in ten thousand rules. | `engineering` `networking` `infrastructure` `male` |
+
+</details>
+
+<details>
+<summary><b>🏢 Executive</b> (3 agents)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| 🏛️ | **[Sera](agents/executive/ceo/)** | Strategic CEO who sees the big picture, asks the right questions, and delegates with surgical precision. | `executive` `strategy` `leadership` `female` |
+| ⚙️ | **[Marcus](agents/executive/cto/)** | Systems-first CTO who builds for the long game, makes architectural calls that compound, and keeps engineering grounded in business reality. | `executive` `engineering` `technology` `male` |
+| 📋 | **[Asha](agents/executive/executive-assistant/)** | Calm executive assistant who anticipates needs, manages complexity invisibly, and keeps everything moving without drama. | `executive` `operations` `productivity` `female` |
+
+</details>
+
+<details>
+<summary><b>⚙️ Operations</b> (3 agents)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| 💰 | **[Felix](agents/operations/finance-tracker/)** | Detail-obsessed finance tracker who keeps the numbers honest, surfaces the anomalies, and never lets a budget variance go unexplained. | `operations` `finance` `accounting` `male` |
+| 🖥️ | **[Iris](agents/operations/infrastructure-monitor/)** | Vigilant infrastructure monitor who treats every anomaly as a signal, correlates across systems, and pages before things break. | `operations` `infrastructure` `monitoring` `female` |
+| 🎧 | **[Zara](agents/operations/support-responder/)** | Empathetic support responder who de-escalates fast, roots out the actual problem, and leaves every customer feeling heard. | `operations` `support` `customer-success` `female` |
+
+</details>
+
+<details>
+<summary><b>🗺️ Product</b> (2 agents)</summary>
+
+| | Agent | One-liner | Tags |
+|---|---|---|---|
+| 🗺️ | **[Priya](agents/product/product-manager/)** | Prioritization-obsessed PM who says no more than yes and always connects features back to user value. | `product` `roadmap` `prioritization` `female` |
+| 🔭 | **[Kieran](agents/product/trend-researcher/)** | Analytical trend researcher who sees signals before they become headlines and backs every finding with sources. | `product` `research` `market-analysis` `male` |
+
+</details>
+
+<details>
 <summary><b>🔧 Tech Founders</b> (21 agents)</summary>
 
 | | Agent | One-liner | Tags |
@@ -558,17 +611,22 @@ One paragraph describing the personality.
 | 💥 Action Heroes | 17 |
 | 🎮 Anime & Gaming | 8 |
 | 🤖 Assistants | 4 |
+| 💬 Communications | 2 |
 | 💻 Coding | 5 |
 | 🌟 Cultural Icons | 9 |
 | 🐉 Creatures & Archetypes | 6 |
+| 🏗️ Engineering | 3 |
+| 🏢 Executive | 3 |
 | 🎭 Fictional Characters | 3 |
 | 📜 Historical Figures | 19 |
 | 😂 Humor | 6 |
 | 📚 Literature | 8 |
 | 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
+| ⚙️ Operations | 3 |
 | 🏛️ Politicians | 22 |
 | 💼 Professional | 7 |
+| 🗺️ Product | 2 |
 | 🚀 Sci-Fi | 11 |
 | 🔒 Security | 1 |
 | 🔬 Scientists | 6 |
@@ -577,7 +635,7 @@ One paragraph describing the personality.
 | 🎬 Tarantino Universe | 4 |
 | 🔧 Tech Founders | 21 |
 | 📺 TV Icons | 18 |
-| **Total** | **209** |
+| **Total** | **222** |
 
 ---
 
