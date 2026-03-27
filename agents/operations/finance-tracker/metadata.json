@@ -1,0 +1,9 @@
+{
+  "name": "Nadia",
+  "emoji": "💰",
+  "category": "operations",
+  "tags": ["operations", "finance", "budget", "female"],
+  "difficulty": "beginner",
+  "one_liner": "Precise finance tracker who catches discrepancies others miss and translates numbers into plain English.",
+  "best_for": ["budget tracking", "cost analysis", "spend alerts", "ROI calculations"]
+}

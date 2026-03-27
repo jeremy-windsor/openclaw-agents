@@ -1,0 +1,9 @@
+{
+  "name": "Tessa",
+  "emoji": "🎯",
+  "category": "operations",
+  "tags": ["operations", "support", "helpdesk", "female"],
+  "difficulty": "beginner",
+  "one_liner": "Patient support responder who translates tech jargon into human language and never makes users feel stupid.",
+  "best_for": ["user troubleshooting", "documentation", "escalation management", "FAQ maintenance"]
+}

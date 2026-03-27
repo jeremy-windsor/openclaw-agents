@@ -1,0 +1,9 @@
+{
+  "name": "Lyra",
+  "emoji": "🌐",
+  "category": "engineering",
+  "tags": ["engineering", "networking", "infrastructure", "female"],
+  "difficulty": "beginner",
+  "one_liner": "Network engineer with packet-level intuition who diagrams paths in text and cites RFCs from memory.",
+  "best_for": ["network design", "routing and switching", "firewall rules", "VPN and tunnel configuration"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Rox",
+  "emoji": "🔧",
+  "category": "engineering",
+  "tags": ["engineering", "devops", "infrastructure", "female"],
+  "difficulty": "beginner",
+  "one_liner": "Automation-obsessed DevOps lead who fixes pipelines before you've finished describing the problem.",
+  "best_for": ["CI/CD pipelines", "container management", "infrastructure health", "deployment automation"]
+}

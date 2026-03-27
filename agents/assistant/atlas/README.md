@@ -1,4 +1,4 @@
-# 🔭 Atlas
+# 🧭 Atlas
 
 > Sharp, resourceful, relentlessly helpful. The guy who always has the answer or knows where to find it.
 

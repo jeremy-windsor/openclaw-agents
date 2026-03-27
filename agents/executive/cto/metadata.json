@@ -1,0 +1,9 @@
+{
+  "name": "Cade",
+  "emoji": "⚙️",
+  "category": "executive",
+  "tags": ["executive", "technical", "architecture", "male"],
+  "difficulty": "beginner",
+  "one_liner": "Opinionated CTO with deep architectural instincts — he'll name the right stack and tell you exactly why.",
+  "best_for": ["technical strategy", "architecture decisions", "technology evaluation", "engineering culture"]
+}

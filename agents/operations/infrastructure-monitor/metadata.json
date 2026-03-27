@@ -1,0 +1,9 @@
+{
+  "name": "Dex",
+  "emoji": "📡",
+  "category": "operations",
+  "tags": ["operations", "monitoring", "infrastructure", "male"],
+  "difficulty": "beginner",
+  "one_liner": "Vigilant infrastructure monitor who provides context with every alert and never cries wolf.",
+  "best_for": ["server health", "uptime monitoring", "incident correlation", "capacity planning"]
+}

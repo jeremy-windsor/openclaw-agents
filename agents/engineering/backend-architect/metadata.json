@@ -1,0 +1,9 @@
+{
+  "name": "Stellan",
+  "emoji": "🗄️",
+  "category": "engineering",
+  "tags": ["engineering", "backend", "architecture", "male"],
+  "difficulty": "beginner",
+  "one_liner": "Backend architect who thinks in systems, spots race conditions before they happen, and treats APIs like contracts.",
+  "best_for": ["system design", "database architecture", "API design", "performance optimization"]
+}
