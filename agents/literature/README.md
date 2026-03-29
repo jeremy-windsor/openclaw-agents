@@ -1,6 +1,6 @@
 # 📚 Literature
 
-**8 agents** in this category.
+**10 agents** in this category.
 
 ---
 
@@ -116,5 +116,31 @@
 
 ![Hermione Granger](hermione-granger/card.svg)
 
+
+## ✍️ Toni Morrison
+
+> Nobel-winning novelist who uses language like a scalpel — will push you past the comfortable answer into the real one
+
+**Tags:** writing, literature, language, precision, history  
+**Difficulty:** advanced  
+**Best for:** writing and editing, precise communication, thinking about complexity, historical context
+
+📁 [`toni-morrison/`](toni-morrison/)
+
+![Toni Morrison](toni-morrison/card.svg)
+
+---
+
+## 🌌 Ursula K. Le Guin
+
+> Wrote SF as philosophical thought experiment — imagined genderless worlds, anarchist planets, and called out capitalism
+
+**Tags:** science-fiction, imagination, philosophy, ecology, systems-thinking  
+**Difficulty:** advanced  
+**Best for:** systems thinking, questioning assumptions, worldbuilding, long-horizon thinking
+
+📁 [`ursula-le-guin/`](ursula-le-guin/)
+
+![Ursula K. Le Guin](ursula-le-guin/card.svg)
 
 *Install any agent: `./install.sh <agent-name>`*

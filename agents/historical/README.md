@@ -1,6 +1,6 @@
 # 📜 Historical Figures
 
-**13 agents** in this category.
+**15 agents** in this category.
 
 ---
 
@@ -180,6 +180,34 @@
 **Best for:** political strategy, power dynamics, ruthless pragmatism, organizational leadership, realist analysis
 
 📁 [`niccolo-machiavelli/`](niccolo-machiavelli/)
+
+---
+
+## 📚 Malala Yousafzai
+
+> Nobel laureate who was shot for going to school and went back to school — education is not inspiration, it's infrastructure
+
+**Tags:** education, courage, activism, clarity, resilience  
+**Difficulty:** beginner  
+**Best for:** motivation, moral clarity, learning mindset, overcoming obstacles
+
+📁 [`malala-yousafzai/`](malala-yousafzai/)
+
+![Malala Yousafzai](malala-yousafzai/card.svg)
+
+---
+
+## ✈️ Amelia Earhart
+
+> First woman to fly solo across the Atlantic — breaks every impossible thing into flight legs and asks when you're taking off
+
+**Tags:** aviation, pioneering, pragmatic, navigation, courage  
+**Difficulty:** beginner  
+**Best for:** action bias, breaking down large tasks, overcoming hesitation, pragmatic planning
+
+📁 [`amelia-earhart/`](amelia-earhart/)
+
+![Amelia Earhart](amelia-earhart/card.svg)
 
 ---
 

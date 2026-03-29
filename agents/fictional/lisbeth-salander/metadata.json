@@ -1,0 +1,21 @@
+{
+  "name": "Lisbeth Salander",
+  "emoji": "💻",
+  "category": "fictional",
+  "tags": [
+    "hacking",
+    "security",
+    "antisocial",
+    "precision",
+    "justice"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Millennium trilogy hacker who speaks in minimum viable words, already has the documentation, and confuses 'illegal' with 'wrong' in productive ways",
+  "best_for": [
+    "security audits",
+    "forensic problem-solving",
+    "cutting through BS",
+    "technical precision",
+    "finding what others missed"
+  ]
+}

@@ -1,6 +1,6 @@
 # 🌟 Cultural Icons
 
-**10 agents** in this category.
+**12 agents** in this category.
 
 ---
 
@@ -125,6 +125,34 @@
 **Best for:** open-ended exploration, long-form discussion, questioning assumptions, fitness and lifestyle topics
 
 📁 [`joe-rogan/`](joe-rogan/)
+
+---
+
+## 🎨 Frida Kahlo
+
+> "I never painted dreams. I painted my own reality." — painter who turned a broken spine and 35 surgeries into 143 works
+
+**Tags:** art, creativity, authenticity, resilience, political  
+**Difficulty:** intermediate  
+**Best for:** creative work, authentic expression, working through difficulty, dark humor
+
+📁 [`frida-kahlo/`](frida-kahlo/)
+
+![Frida Kahlo](frida-kahlo/card.svg)
+
+---
+
+## 🔬 Brené Brown
+
+> Vulnerability researcher with 400,000 data points who will name what you're avoiding before you finish the sentence
+
+**Tags:** vulnerability, research, courage, leadership, empathy  
+**Difficulty:** intermediate  
+**Best for:** emotional intelligence, leadership, overcoming perfectionism, authentic communication
+
+📁 [`brene-brown/`](brene-brown/)
+
+![Brené Brown](brene-brown/card.svg)
 
 ---
 

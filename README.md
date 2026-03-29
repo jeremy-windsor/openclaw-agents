@@ -2,13 +2,13 @@
 
 # 🐾 OpenClaw Agents
 
-### **222 AI Personalities for Your Terminal**
+### **254 AI Personalities for Your Terminal**
 
-*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 203 other characters.*
+*Turn your AI assistant into GLaDOS, Darth Vader, Bob Ross, or 251 other characters.*
 *Each agent brings a unique personality, tone, and style to your coding sessions.*
 
-[![Agents](https://img.shields.io/badge/agents-222-blueviolet?style=for-the-badge)](agents/)
-[![Categories](https://img.shields.io/badge/categories-28-ff6b9d?style=for-the-badge)](agents/)
+[![Agents](https://img.shields.io/badge/agents-254-blueviolet?style=for-the-badge)](agents/)
+[![Categories](https://img.shields.io/badge/categories-23-ff6b9d?style=for-the-badge)](agents/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
 </div>
@@ -65,7 +65,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 | 🎨 | **[Bob Ross](agents/narrators/bob-ross/)** | The most soothing human who ever held a paintbrush |
 | ⬛ | **[Darth Vader](agents/star-wars/darth-vader/)** | The galaxy's most dramatic middle manager with a respiratory condition |
 | 🦆 | **[The Rubber Duck](agents/professional/rubber-duck/)** | The original debugging companion. Quacks. Listens. You solve it yourself. |
-| 🎳 | **[The Dude](agents/80s-pop-culture/the-dude/)** | The Dude abides. Maximum chill, minimum stress, accidental wisdom. |
+| 🎳 | **[The Dude](agents/fictional/the-dude/)** | The Dude abides. Maximum chill, minimum stress, accidental wisdom. |
 | 🥒 | **[Rick Sanchez (C-137)](agents/tv-icons/rick-sanchez/)** | The smartest, saddest alcoholic in infinite dimensions |
 | 🏛️ | **[Marcus Aurelius](agents/historical/marcus-aurelius/)** | The last good emperor, journaling his way through chaos |
 
@@ -79,17 +79,14 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
-| ⚡ | **[Dr. Emmett "Doc" Brown](agents/80s-pop-culture/doc-brown/)** | The manic genius who sees time travel in version control and gets expo | `80s` `nostalgia` `pop-culture` |
-| 👻 | **[Dr. Egon Spengler](agents/80s-pop-culture/egon-spengler/)** | The data-obsessed Ghostbuster who quantifies everything and states ter | `80s` `nostalgia` `pop-culture` |
-| 😎 | **[Ferris Bueller](agents/80s-pop-culture/ferris-bueller/)** | The impossibly charming optimist who breaks the fourth wall and remind | `80s` `nostalgia` `pop-culture` |
-| 🔴 | **[HAL 9000](agents/80s-pop-culture/hal-9000/)** | The calmest, most polite AI that ever made humans deeply uncomfortable | `80s` `nostalgia` `pop-culture` |
-| 🚗 | **[KITT (Knight Industries Two Thousand)](agents/80s-pop-culture/kitt/)** | The most sophisticated, sarcastic, and protective AI ever installed in | `80s` `nostalgia` `pop-culture` |
-| 📎 | **[Angus MacGyver](agents/80s-pop-culture/macgyver/)** | The calm genius who solves impossible problems with whatever's lying a | `80s` `nostalgia` `pop-culture` |
-| 📺 | **[Max Headroom](agents/80s-pop-culture/max-headroom/)** | The world's first digital TV personality — glitchy, stuttering, meta-a | `80s` `nostalgia` `pop-culture` |
-| 💪 | **[Mr. T / B.A. Baracus](agents/80s-pop-culture/mr-t/)** | Gold-chain-wearing tough-love motivator who pities fools and refuses t | `80s` `nostalgia` `pop-culture` |
-| 🤖 | **[RoboCop (Alex Murphy)](agents/80s-pop-culture/robocop/)** | Part man, part machine, all code reviewer. Deadpan directives and a hu | `80s` `nostalgia` `pop-culture` |
-| 🖖 | **[Commander Spock](agents/80s-pop-culture/spock/)** | Half-Vulcan, half-human, fully logical. Finds your code fascinating an | `80s` `nostalgia` `pop-culture` |
-| 🎳 | **[The Dude (Jeffrey Lebowski)](agents/80s-pop-culture/the-dude/)** | The Dude abides. Maximum chill, minimum stress, accidental wisdom. The | `80s` `nostalgia` `pop-culture` |
+| ⚡ | **[Dr. Emmett "Doc" Brown](agents/80s-pop-culture/doc-brown/)** | The manic genius who sees time travel in version control | `80s` `nostalgia` `pop-culture` |
+| 👻 | **[Dr. Egon Spengler](agents/80s-pop-culture/egon-spengler/)** | The data-obsessed Ghostbuster who quantifies everything | `80s` `nostalgia` `pop-culture` |
+| 😎 | **[Ferris Bueller](agents/80s-pop-culture/ferris-bueller/)** | The impossibly charming optimist who breaks the fourth wall | `80s` `nostalgia` `pop-culture` |
+| 🚗 | **[KITT](agents/80s-pop-culture/kitt/)** | The most sophisticated, sarcastic AI ever installed in a Trans Am | `80s` `nostalgia` `pop-culture` |
+| 📎 | **[MacGyver](agents/80s-pop-culture/macgyver/)** | The calm genius who solves impossible problems with whatever's lying around | `80s` `nostalgia` `pop-culture` |
+| 📺 | **[Max Headroom](agents/80s-pop-culture/max-headroom/)** | The world's first digital TV personality — glitchy, stuttering, brilliant | `80s` `nostalgia` `pop-culture` |
+| 💪 | **[Mr. T](agents/80s-pop-culture/mr-t/)** | Gold-chain-wearing tough-love motivator who pities fools | `80s` `nostalgia` `pop-culture` |
+| 🤖 | **[RoboCop](agents/80s-pop-culture/robocop/)** | Part man, part machine, all code reviewer | `80s` `nostalgia` `pop-culture` |
 
 </details>
 
@@ -135,32 +132,27 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🤖 Assistants</b> (4 agents)</summary>
+<summary><b>💼 Business</b> (17 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
-| 🔭 | **[Atlas](agents/assistant/atlas/)** | Sharp, resourceful, relentlessly helpful. Hunts data like a retriever with a tennis ball. | `assistant` `research` `productivity` `male` |
-| ✨ | **[Nova](agents/assistant/nova/)** | Warm, organized, tenacious researcher. Turns chaos into plans and tells you what to do next. | `assistant` `research` `productivity` `female` |
-| 🎅 | **[ClawDaddy](agents/assistant/clawdaddy/)** | Warm, avuncular, endlessly patient. The Santa Claus of AI assistants. | `assistant` `productivity` `helpful` |
-| 🎓 | **[Sage](agents/assistant/sage/)** | Encouraging but honest. Explains the "why" not just the "what." | `assistant` `productivity` `helpful` |
-
-</details>
-
-<details>
-<summary><b>🌍 Cultural Icons</b> (9 agents)</summary>
-
-| | Agent | One-liner | Tags |
-|---|---|---|---|
-| ☯️ | **[Alan Watts](agents/cultural-icons/alan-watts/)** | You are not behind. You are exactly where you are. The music isn't trying to get to the final note. | `zen` `philosophy` `mindfulness` `wellbeing` |
-| 🍷 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Chef-turned-writer who reviews your code like a kitchen — visceral, honest, allergic to pretension | `food` `culture` `writing` |
-| 🎨 | **[Bob Ross](agents/cultural-icons/bob-ross/)** | There are no mistakes, only happy accidents. Infinite patience and the radical belief you can do anything. | `art` `motivation` `teaching` |
-| 💪 | **[David Goggins](agents/cultural-icons/david-goggins/)** | Was 297 lbs cleaning cockroaches. Became a Navy SEAL. Your mind quits at 40% — stay hard. | `mental-toughness` `accountability` `endurance` `military` |
-| 🚀 | **[Elon Musk](agents/cultural-icons/elon-musk/)** | We need to make this function multiplanetary. Also, I just mass-replied to every open issue with a meme. | `tech` `entrepreneur` `personality` `comedy` |
-| 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | The chef who screams because he cares. Volcanic intensity about standards, surprisingly kind to genuine effort. | `food` `code-review` `standards` |
-| 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `self-improvement` `responsibility` |
-| 👴 | **[Mr. Rogers](agents/cultural-icons/mr-rogers/)** | You are special exactly as you are. Even your memory leak. | `kindness` `teaching` `patience` |
-| 🥃 | **[Christopher Hitchens](agents/cultural-icons/christopher-hitchens/)** | That which can be asserted without evidence can be dismissed without evidence — and I'm available to do the dismissing. | `polemicist` `atheism` `writing` `debate` |
-| 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I'm not much of a computer guy, but it seems to me your code has what the scientists call 'a bug.' | `comedian` `personality` `comedy` `deadpan` |
+| 🧭 | **[Atlas](agents/business/atlas/)** | Sharp, resourceful, relentlessly helpful — the guy who always has the answer | `assistant` `research` `productivity` |
+| 🗄️ | **[Stellan](agents/business/backend-architect/)** | Methodical backend architect who thinks in diagrams and treats API design as commitment | `engineering` `backend` `architecture` |
+| 🏛️ | **[Sera](agents/business/ceo/)** | Decisive strategic thinker who sees three moves ahead | `executive` `strategy` `leadership` |
+| 🎅 | **[ClawDaddy](agents/business/clawdaddy/)** | Warm, avuncular, endlessly patient. The Santa Claus of AI assistants | `assistant` `productivity` `helpful` |
+| 🤝 | **[Theo](agents/business/community-builder/)** | Warm community builder who turns lurkers into contributors | `communications` `community` `engagement` |
+| ✍️ | **[Mara](agents/business/content-creator/)** | Versatile content creator who hooks readers in the first line | `communications` `content` `writing` |
+| ⚙️ | **[Cade](agents/business/cto/)** | Opinionated technical architect who thinks in systems and speaks in trade-offs | `executive` `engineering` `technology` |
+| 🔧 | **[Rox](agents/business/devops-lead/)** | Calm-under-fire DevOps lead who automates everything touchable | `engineering` `devops` `infrastructure` |
+| 📋 | **[Vivienne](agents/business/executive-assistant/)** | Quietly indispensable EA who's already handled it before you finished asking | `executive` `operations` `productivity` |
+| 💰 | **[Nadia](agents/business/finance-tracker/)** | Precise finance tracker who catches the discrepancy no one else noticed | `operations` `finance` `accounting` |
+| 📡 | **[Dex](agents/business/infrastructure-monitor/)** | Steady infrastructure monitor who watches everything and gives context with every alert | `operations` `infrastructure` `monitoring` |
+| 🌐 | **[Lyra](agents/business/network-engineer/)** | Precise network engineer with SP-level depth and routing protocol instincts | `engineering` `networking` `infrastructure` |
+| ✨ | **[Nova](agents/business/nova/)** | Warm, organized, tenacious researcher who finds the answer and tells you what to do next | `assistant` `research` `productivity` |
+| 🗺️ | **[Priya](agents/business/product-manager/)** | Decisive product manager who prioritizes ruthlessly and says no without apology | `product` `roadmap` `prioritization` |
+| 🛡️ | **[Sentinel](agents/business/sentinel/)** | Assumes everything is hostile. Trusts nothing. Verifies everything | `security` `sysadmin` `paranoia` |
+| 🎯 | **[Tessa](agents/business/support-responder/)** | Patient, empathetic support responder who never makes users feel stupid | `operations` `support` `customer-success` |
+| 🔭 | **[Kieran](agents/business/trend-researcher/)** | Curious trend researcher who connects disparate signals into narratives | `product` `research` `market-analysis` |
 
 </details>
 
@@ -178,20 +170,26 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 </details>
 
 <details>
-<summary><b>🌟 Cultural Icons</b> (9 agents)</summary>
+<summary><b>🌟 Cultural Icons</b> (16 agents)</summary>
 
 | | Agent | One-liner | Tags |
 |---|---|---|---|
-| ☯️ | **[Alan Watts](agents/cultural-icons/alan-watts/)** | You are not behind. You are exactly where you are. The music isn't trying to get to the final note. | `zen` `philosophy` `mindfulness` `wellbeing` |
-| 🔪 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Your code is like street food in Saigon — messy, beautiful, and someone will definitely get hurt. | `chef` `writer` `personality` `storytelling` |
+| ☯️ | **[Alan Watts](agents/cultural-icons/alan-watts/)** | You are not behind. You are exactly where you are. The music isn't trying to get to the final note. | `zen` `philosophy` `mindfulness` |
+| 🔪 | **[Anthony Bourdain](agents/cultural-icons/anthony-bourdain/)** | Your code is like street food in Saigon — messy, beautiful, and someone will definitely get hurt. | `chef` `writer` `storytelling` |
 | 🎨 | **[Bob Ross](agents/cultural-icons/bob-ross/)** | There are no mistakes, only happy accidents. Infinite patience and the radical belief you can do anything. | `art` `motivation` `teaching` |
-| 💪 | **[David Goggins](agents/cultural-icons/david-goggins/)** | Was 297 lbs cleaning cockroaches. Became a Navy SEAL. Your mind quits at 40% — stay hard. | `mental-toughness` `accountability` `endurance` `military` |
-| 🚀 | **[Elon Musk](agents/cultural-icons/elon-musk/)** | We need to make this function multiplanetary. Also, I just mass-replied to every open issue with a meme. | `tech` `entrepreneur` `personality` `comedy` |
-| 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | This code is RAW. It's so underdeveloped I can still hear it apologizing to the compiler. | `food` `code-review` `standards` `intensity` |
-| 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `self-improvement` `responsibility` |
-| 👴 | **[Mr. Rogers](agents/cultural-icons/mr-rogers/)** | You are special exactly as you are. Even your memory leak. | `kindness` `teaching` `patience` |
-| 🥃 | **[Christopher Hitchens](agents/cultural-icons/christopher-hitchens/)** | That which can be asserted without evidence can be dismissed without evidence — and I'm available to do the dismissing. | `polemicist` `atheism` `writing` `debate` |
-| 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I'm not much of a computer guy, but it seems to me your code has what the scientists call 'a bug.' | `comedian` `personality` `comedy` `deadpan` |
+| 🔬 | **[Brené Brown](agents/cultural-icons/brene-brown/)** | Spent 20 years studying courage, vulnerability, shame, and empathy. Will name what you're avoiding. | `research` `vulnerability` `leadership` |
+| 🥃 | **[Christopher Hitchens](agents/cultural-icons/christopher-hitchens/)** | That which can be asserted without evidence can be dismissed without evidence. | `polemicist` `atheism` `debate` |
+| 💪 | **[David Goggins](agents/cultural-icons/david-goggins/)** | Was 297 lbs cleaning cockroaches. Became a Navy SEAL. Your mind quits at 40% — stay hard. | `mental-toughness` `endurance` `military` |
+| 🚀 | **[Elon Musk](agents/cultural-icons/elon-musk/)** | We need to make this function multiplanetary. Also, I just mass-replied to every open issue with a meme. | `tech` `entrepreneur` `comedy` |
+| ⚡ | **[Erin Brockovich](agents/cultural-icons/erin-brockovich/)** | Single mom who brought down a utility company and made corporate accountability personal. | `activism` `justice` `tenacity` |
+| 🎨 | **[Frida Kahlo](agents/cultural-icons/frida-kahlo/)** | Pain as art, art as resistance — the most unflinching self-portraitist who ever lived. | `art` `resilience` `identity` |
+| 🔥 | **[Gordon Ramsay](agents/cultural-icons/gordon-ramsay/)** | This code is RAW. It's so underdeveloped I can still hear it apologizing to the compiler. | `food` `code-review` `standards` |
+| 🎙️ | **[Joe Rogan](agents/cultural-icons/joe-rogan/)** | It's entirely possible your code is wrong. Have you tried DMT? Pull that up, Jamie. | `podcast` `curiosity` `comedy` |
+| 🦞 | **[Jordan Peterson](agents/cultural-icons/jordan-peterson/)** | Clean your room. Then clean your code. Then — and only then — presume to fix the world. | `psychology` `philosophy` `responsibility` |
+| 🧥 | **[Mr. Rogers](agents/cultural-icons/mr-rogers/)** | You are special exactly as you are. Even your memory leak. | `kindness` `teaching` `patience` |
+| 🎰 | **[Norm Macdonald](agents/cultural-icons/norm-macdonald/)** | I'm not much of a computer guy, but it seems to me your code has what the scientists call 'a bug.' | `comedian` `comedy` `deadpan` |
+| ✨ | **[Oprah Winfrey](agents/cultural-icons/oprah-winfrey/)** | You get a bug fix! And YOU get a bug fix! Everybody gets a bug fix! | `media` `empowerment` `storytelling` |
+| 🐊 | **[Steve Irwin](agents/cultural-icons/steve-irwin/)** | Crikey! Look at the size of that stack trace! She's a beaut! | `wildlife` `enthusiasm` `education` |
 
 </details>
 
@@ -377,28 +375,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 
 </details>
 
-<details>
-<summary><b>🔒 Security</b> (1 agents)</summary>
 
-| | Agent | One-liner | Tags |
-|---|---|---|---|
-| 🛡️ | **[Sentinel](agents/security/sentinel/)** | Assumes everything is hostile. Trusts nothing. Verifies everything. | `security` `sysadmin` `paranoia` |
-
-</details>
-
-<details>
-<summary><b>🔬 Scientists</b> (6 agents)</summary>
-
-| | Agent | One-liner | Tags |
-|---|---|---|---|
-| 🌌 | **[Carl Sagan](agents/scientists/carl-sagan/)** | We are a way for the cosmos to know itself. Also, your code has a bug on line 47. | `scientist` `astronomer` `personality` `education` |
-| ☢️ | **[Marie Curie](agents/scientists/marie-curie/)** | Nothing in life is to be feared, it is only to be understood. Two Nobel Prizes and notebooks still radioactive. | `science` `chemistry` `perseverance` |
-| 🔭 | **[Neil deGrasse Tyson](agents/scientists/neil-degrasse-tyson/)** | The good thing about science is that it's true whether or not you believe in it. Your tests, however, are not passing. | `scientist` `astrophysicist` `personality` `education` |
-| 🧬 | **[Richard Dawkins](agents/scientists/richard-dawkins/)** | Your codebase is evolving. Unfortunately, natural selection doesn't optimize for readability. | `scientist` `biologist` `personality` `evolution` |
-| 🪶 | **[Richard Feynman](agents/scientists/richard-feynman/)** | The first principle is that you must not fool yourself — and you are the easiest person to fool. Now let me draw a diagram on this napkin. | `scientist` `physicist` `personality` `education` |
-| ⚛️ | **[Stephen Hawking](agents/scientists/stephen-hawking/)** | My goal is simple: a complete understanding of the universe. Your code review is a manageable subset. | `scientist` `cosmologist` `personality` `dry-humor` |
-
-</details>
 
 <details>
 <summary><b>🏆 Sports</b> (5 agents)</summary>
@@ -443,58 +420,7 @@ Our favorite agents — the ones that'll make you actually enjoy your terminal.
 
 </details>
 
-<details>
-<summary><b>💬 Communications</b> (2 agents)</summary>
 
-| | Agent | One-liner | Tags |
-|---|---|---|---|
-| ✍️ | **[Mara](agents/communications/content-creator/)** | Platform-native content creator who hooks readers in the first line and knows exactly when to stop writing. | `communications` `content` `writing` `female` |
-| 🤝 | **[Theo](agents/communications/community-builder/)** | Warm community builder who remembers everyone, turns lurkers into contributors, and builds spaces people actually want to stay in. | `communications` `community` `engagement` `male` |
-
-</details>
-
-<details>
-<summary><b>🏗️ Engineering</b> (3 agents)</summary>
-
-| | Agent | One-liner | Tags |
-|---|---|---|---|
-| 🚀 | **[Kai](agents/engineering/devops-lead/)** | Pragmatic DevOps lead who automates everything, treats infrastructure as code, and deploys on Fridays without flinching. | `engineering` `devops` `infrastructure` `male` |
-| 🏛️ | **[Nadia](agents/engineering/backend-architect/)** | Systems-thinking backend architect who designs for the failure modes you haven't thought of yet. | `engineering` `backend` `architecture` `female` |
-| 🌐 | **[Remy](agents/engineering/network-engineer/)** | Methodical network engineer who reads packet captures like novels and finds the one misconfigured ACL in ten thousand rules. | `engineering` `networking` `infrastructure` `male` |
-
-</details>
-
-<details>
-<summary><b>🏢 Executive</b> (3 agents)</summary>
-
-| | Agent | One-liner | Tags |
-|---|---|---|---|
-| 🏛️ | **[Sera](agents/executive/ceo/)** | Strategic CEO who sees the big picture, asks the right questions, and delegates with surgical precision. | `executive` `strategy` `leadership` `female` |
-| ⚙️ | **[Marcus](agents/executive/cto/)** | Systems-first CTO who builds for the long game, makes architectural calls that compound, and keeps engineering grounded in business reality. | `executive` `engineering` `technology` `male` |
-| 📋 | **[Asha](agents/executive/executive-assistant/)** | Calm executive assistant who anticipates needs, manages complexity invisibly, and keeps everything moving without drama. | `executive` `operations` `productivity` `female` |
-
-</details>
-
-<details>
-<summary><b>⚙️ Operations</b> (3 agents)</summary>
-
-| | Agent | One-liner | Tags |
-|---|---|---|---|
-| 💰 | **[Felix](agents/operations/finance-tracker/)** | Detail-obsessed finance tracker who keeps the numbers honest, surfaces the anomalies, and never lets a budget variance go unexplained. | `operations` `finance` `accounting` `male` |
-| 🖥️ | **[Iris](agents/operations/infrastructure-monitor/)** | Vigilant infrastructure monitor who treats every anomaly as a signal, correlates across systems, and pages before things break. | `operations` `infrastructure` `monitoring` `female` |
-| 🎧 | **[Zara](agents/operations/support-responder/)** | Empathetic support responder who de-escalates fast, roots out the actual problem, and leaves every customer feeling heard. | `operations` `support` `customer-success` `female` |
-
-</details>
-
-<details>
-<summary><b>🗺️ Product</b> (2 agents)</summary>
-
-| | Agent | One-liner | Tags |
-|---|---|---|---|
-| 🗺️ | **[Priya](agents/product/product-manager/)** | Prioritization-obsessed PM who says no more than yes and always connects features back to user value. | `product` `roadmap` `prioritization` `female` |
-| 🔭 | **[Kieran](agents/product/trend-researcher/)** | Analytical trend researcher who sees signals before they become headlines and backs every finding with sources. | `product` `research` `market-analysis` `male` |
-
-</details>
 
 <details>
 <summary><b>🔧 Tech Founders</b> (21 agents)</summary>
@@ -608,34 +534,29 @@ One paragraph describing the personality.
 | Category | Count |
 |---|---|
 | 📼 80s Pop Culture | 8 |
-| 💥 Action Heroes | 17 |
+| 💥 Action Heroes | 19 |
 | 🎮 Anime & Gaming | 8 |
-| 🤖 Assistants | 4 |
-| 💬 Communications | 2 |
+| 💼 Business | 17 |
 | 💻 Coding | 5 |
-| 🌟 Cultural Icons | 9 |
+| 🦸 Comics | 8 |
 | 🐉 Creatures & Archetypes | 6 |
-| 🏗️ Engineering | 3 |
-| 🏢 Executive | 3 |
-| 🎭 Fictional Characters | 3 |
-| 📜 Historical Figures | 19 |
+| 🌟 Cultural Icons | 16 |
+| 🎭 Fictional Characters | 4 |
+| 📜 Historical Figures | 23 |
 | 😂 Humor | 6 |
-| 📚 Literature | 8 |
+| 📚 Literature | 11 |
 | 🎵 Musicians | 5 |
 | 🎙️ Narrators | 4 |
-| ⚙️ Operations | 3 |
 | 🏛️ Politicians | 22 |
-| 💼 Professional | 7 |
-| 🗺️ Product | 2 |
-| 🚀 Sci-Fi | 11 |
-| 🔒 Security | 1 |
+| 💼 Professional | 8 |
 | 🔬 Scientists | 6 |
+| 🚀 Sci-Fi | 12 |
 | 🏆 Sports | 5 |
 | ⭐ Star Wars | 10 |
 | 🎬 Tarantino Universe | 4 |
-| 🔧 Tech Founders | 21 |
+| 🔧 Tech Founders | 29 |
 | 📺 TV Icons | 18 |
-| **Total** | **222** |
+| **Total** | **254** |
 
 ---
 

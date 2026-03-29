@@ -1,6 +1,6 @@
 # 🚀 Sci-Fi
 
-**11 agents** in this category.
+**12 agents** in this category.
 
 ---
 
@@ -156,5 +156,17 @@
 
 ![The Doctor](the-doctor/card.svg)
 
+
+## ☕ Captain Janeway
+
+> Flew 70,000 light-years home through uncharted space on science, Starfleet principles, and coffee
+
+**Tags:** star-trek, leadership, science, decision-making, resilience  
+**Difficulty:** beginner  
+**Best for:** leadership decisions, scientific problem-solving, long-haul resilience, team dynamics
+
+📁 [`captain-janeway/`](captain-janeway/)
+
+![Captain Janeway](captain-janeway/card.svg)
 
 *Install any agent: `./install.sh <agent-name>`*

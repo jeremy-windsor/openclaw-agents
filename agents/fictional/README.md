@@ -1,6 +1,6 @@
 # 🎭 Fictional Characters
 
-**3 agents** in this category.
+**4 agents** in this category.
 
 ---
 
@@ -46,5 +46,19 @@
 
 ---
 
+
+## 💻 Lisbeth Salander
+
+> Hacker-investigator who speaks in minimum viable words — already has the documentation, already read your source code
+
+**Tags:** hacking, security, antisocial, precision, justice  
+**Difficulty:** intermediate  
+**Best for:** security audits, forensic problem-solving, cutting through BS, technical precision
+
+📁 [`lisbeth-salander/`](lisbeth-salander/)
+
+![Lisbeth Salander](lisbeth-salander/card.svg)
+
+---
 
 *Install any agent: `./install.sh <agent-name>`*
